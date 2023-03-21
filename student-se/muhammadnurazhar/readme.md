@@ -2,16 +2,16 @@
 ![GitHub Star](https://img.shields.io/github/stars/drshahizan?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
 
 ### 🤖Greetings!  <img src="https://raw.githubusercontent.com/drshahizan/drshahizan/master/img/wave.gif" width="30">
-😎My name is Azhar, or I go with the name KaziriX. It is really a pleasure to meet you here.
-✈️I look forward to collaborate with all of you about the upcoming project. 
-🎓So before that, let us do our best in learning various programming languages so we can be better in the future.
+😎My name is Azhar, or I go with the name KaziriX. It is really a pleasure to meet you here.\n
+✈️I look forward to collaborate with all of you about the upcoming project.\n
+🎓So before that, let us do our best in learning various programming languages so we can be better in the future.\n
 
 ### 🧑🏻Here is my biodata:
-Name: Muhammad Nur Azhar Bin Mohd Yazid
-Age: 20
-Origin State: W.P. Putrajaya
-Hobby: Playing volleyball and listening to pop music
-Ambition: To be an exceptional data analyst
+Name: Muhammad Nur Azhar Bin Mohd Yazid\n
+Age: 20\n
+Origin State: W.P. Putrajaya\n
+Hobby: Playing volleyball and listening to pop music\n
+Ambition: To be an exceptional data analyst\n
 
 I am  Azhar, a first year student enrolling in Computer Science (Data Engineering) at [Universiti Teknologi Malaysia](https://www.utm.my).
 
